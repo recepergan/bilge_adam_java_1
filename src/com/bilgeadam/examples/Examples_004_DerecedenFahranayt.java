@@ -1,5 +1,7 @@
 package com.bilgeadam.examples;
 
+// Yeni komutlar
+
 public class Examples_004_DerecedenFahranayt {
 	public static void main(String[] args) {
 		int f = 80;
@@ -7,3 +9,5 @@ public class Examples_004_DerecedenFahranayt {
 		System.out.println(c);
 	}
 }
+// ddcvv
+// fömdkd
