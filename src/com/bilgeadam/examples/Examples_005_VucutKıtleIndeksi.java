@@ -8,6 +8,8 @@ public class Examples_005_VucutKýtleIndeksi {
 		System.out.println(vki);
 		// deneme
 		// deneme96
+		// denem97
+		
 		// deneme
 		// deneme
 		

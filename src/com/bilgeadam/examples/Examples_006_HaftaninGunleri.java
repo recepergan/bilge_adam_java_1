@@ -9,6 +9,7 @@ public class Examples_006_HaftaninGunleri {
 		System.out.print("Lütfen 1 -7 sayý olarak giriniz : ");
 		int gun = klavye.nextInt();
 		if (gun > 0) {
+			// denemedfknf
 			
 			switch (gun) {
 				case (1):

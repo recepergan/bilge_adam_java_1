@@ -4,6 +4,6 @@ public class Examples_007_TekMýCýftMý {
 	
 	public static void main(String[] args) {
 		
-	}
+	}// fýjwf
 	
 }
