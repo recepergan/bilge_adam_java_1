@@ -6,6 +6,8 @@ public class Examples_005_VucutKýtleIndeksi {
 		double boy = 1.80;
 		double vki = kýlo / (boy * boy);
 		System.out.println(vki);
-		//deneme
+		// deneme
+		// deneme
+		
 	}
 }
