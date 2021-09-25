@@ -6,6 +6,7 @@ public class MainClass {
 	public static void main(String[] args) {
 		// nfnfg
 		// ndfnfd
+		// lmfpds
 		// fdfs
 		Method__0003_Hesap_Makinesi method = new Method__0003_Hesap_Makinesi();
 		
